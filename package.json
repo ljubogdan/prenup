@@ -1,6 +1,7 @@
 {
   "name": "prenup",
   "version": "0.0.0",
+  "license": "MIT",
   "private": true,
   "description": "Mozaik agents that pre-negotiate researcher-company collaborations on the EINSTEIN dataset",
   "type": "module",

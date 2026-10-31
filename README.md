@@ -254,6 +254,10 @@ Also: the [no-match report](out/nomatch.md), the [trap report](out/traps.md), an
 
 TypeScript; `@mozaik-ai/core` 4.2.0 (exact pin); BM25 search in code; zod schemas as structured output; the board is one HTML page fed by Server-Sent Events from a small Node server, no framework. Models through the hackathon's Anthropic gateway: `claude-haiku-4-5` for the Analyst, the Profiler and the Critic's support check; `claude-sonnet-4-6` for the fit and plan reviewers, Arbiter, negotiators, citation checks and writer. `npm test` covers search, trap detection, the Critic's checks, the fit review, term edits, reservations, matchmaking, the Arbiter and the runner.
 
+## License
+
+[MIT](LICENSE). The EINSTEIN dataset is not part of this repo; it is cloned from its own repository by `npm run setup`.
+
 <br>
 
 <div align="center">
